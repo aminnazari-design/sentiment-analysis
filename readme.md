@@ -24,6 +24,7 @@ to examine their accuracies using f1 score
 pip install scikit-learn
 pip install pandas
 pip install numpy
+pip install matplotlib
 ```
 the dataset is available in the project directory , for using word2vec model dont forget to download and unzip the google-news.bin file and put it in the project directory
 
